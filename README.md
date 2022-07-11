@@ -60,7 +60,6 @@ sudo docker-compose up -d;
 Give it time to execute the server...
 
 
-
 Point a web browser at the simulator
 
 Copy this url in your attack box browser to move to the "Hash" part of the simulator, in your localhost under port:3000-->   http://localhost:3000/hash
