@@ -1,4 +1,4 @@
-# Blockchain-THM-room-walkthrough-
+Blockchain-THM-room-walkthrough-
 Room to learn the basic concepts of blockchain, having fun.
 
 ![1](https://user-images.githubusercontent.com/109109176/178353266-7c3fdfde-29be-45ee-9d88-6b87c8f98544.jpg)
@@ -21,21 +21,21 @@ Open your linux attack machine and run a terminal. Copy paste the following comm
 
 ftp ip;
 
-# (ip= ip of "Bouncer Store")
+(ip= ip of "Bouncer Store")
 
-# Introduce the user:
+Introduce the user:
 
 bouncer
 
-# Enter the password:
+Enter the password:
 
 cyberbouncer
 
-# Download the simulator with the command:
+Download the simulator with the command:
 
-get blockchain-demo-master.zip
+get blockchain-demo-master.zip;
 
-# We can exit from ftp with:
+We can exit from ftp with:
 
 Ctl + D 
 
@@ -43,20 +43,21 @@ Ctl + D
 
 Now we are in possession of the simulator the next step is to install it in our linux attack machine:
 
-#The file is in zip format...
+The file is in zip format...
 
-#Unzip the simulator: 
+Unzip the simulator: 
 
-unzip blockchain-demo-master.zip 
+unzip blockchain-demo-master.zip; 
 
-#Move to the simulator directory:
+Move to the simulator directory:
 
 cd blockchain-demo-master;
 
-#Create a server using "docker":
+Create a server using "docker":
+
 sudo docker-compose up -d;
 
-#Give it time to execute the server...
+Give it time to execute the server...
 
 
 
@@ -66,7 +67,7 @@ Copy this url in your attack box browser to move to the "Hash" part of the simul
 
 
 
-#Do the following only in case of error:
+!Do the following only in case of error:
 
 If you are not using the "THM attack box" it may be that you have problems starting the server, in that case try to install docker-compose with the follow commands and start the server again:
 
@@ -78,7 +79,6 @@ sudo docker-compose up -d;
 
 
 Question #1: 
-
 A hash is a function that meets the encrypted demands needed to solve for a blockchain computation. Hashes are of a fixed length since it makes it nearly impossible to guess the length of the hash if someone was trying to crack the blockchain. The same data will always produce the same hashed value.
 When you are in the simulator ...
 In the "data" box: Write random letters. Is the hash changing? Yes or no ("y" or "n")
