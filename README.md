@@ -66,11 +66,14 @@ sudo docker-compose up -d;
 
 Give it time to execute the server...
 
+![2](https://user-images.githubusercontent.com/109109176/178450668-4d3a84e7-e5ee-4aa2-9b93-a8a1b08e8c51.PNG)
+
 
 Point a web browser at the simulator
 
 Copy this url in your attack box browser to move to the "Hash" part of the simulator, in your localhost under port:3000-->   http://localhost:3000/hash
 
+![3](https://user-images.githubusercontent.com/109109176/178451406-0695884d-f882-4210-bb1a-0b007e8fe110.PNG)
 
 
 !Do the following only in case of error:
@@ -95,6 +98,9 @@ y
 Question #2:
 "Nonce" is a portmanteau of "number used only once." It is a four-bit number added to a hashed—or encrypted—block in a blockchain that, when rehashed, meets the difficulty level restrictions. The nonce is the number that blockchain miners are solving for.
 Write what you want  in the "nonce" box.
+
+![4](https://user-images.githubusercontent.com/109109176/178451948-64eda2d5-40c5-4ed5-89da-fcab119130c6.PNG)
+
 Mine the block...
 is the nonce changing? And the hash? ("y" or "n","y" or "n")
 
