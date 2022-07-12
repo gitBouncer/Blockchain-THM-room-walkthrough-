@@ -1,7 +1,7 @@
 Blockchain-THM-room-walkthrough-
 Room to learn the basic concepts of blockchain, having fun.
 
-For those fans of "Try Hack Me" and those who are interested in discovering blockchain from an easy and fun perspective, I have developed my own "Try Hack Me" room about blockchain.
+For those fans of "Try Hack Me" and those who are interested in discovering blockchain from an easy and fun perspective, I have developed this "Try Hack Me" room about blockchain.
 Here I leave you the complete walkthrough. 
 Have fun!
 
