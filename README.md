@@ -1,6 +1,10 @@
 Blockchain-THM-room-walkthrough-
 Room to learn the basic concepts of blockchain, having fun.
 
+For those fans of "Try Hack Me" and those who are interested in discovering blockchain from an easy and fun perspective, I have developed my own "Try Hack Me" room about blockchain.
+Here I leave you the complete walkthrough. 
+Have fun!
+
 ![1](https://user-images.githubusercontent.com/109109176/178353266-7c3fdfde-29be-45ee-9d88-6b87c8f98544.jpg)
 
 
@@ -30,6 +34,9 @@ bouncer
 Enter the password:
 
 cyberbouncer
+
+![1](https://user-images.githubusercontent.com/109109176/178448664-1864684b-3f29-4ec2-84a3-f9d74f2bcd15.PNG)
+
 
 Download the simulator with the command:
 
