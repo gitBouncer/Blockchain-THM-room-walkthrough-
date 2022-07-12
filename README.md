@@ -115,6 +115,9 @@ Whats the new hash? (copy paste all hash)
 Answer #3:
 00009718b21748a9b14da4603ab9f289dc500b20be3fdf9715d32f6803a440c4
 
+![5](https://user-images.githubusercontent.com/109109176/178456658-a9b628ad-332c-419f-afcc-a289ee28248c.PNG)
+
+
 Question #4:
 Now write  "distriBUTED", is the hash changing? ("y" or "n")
 
@@ -131,6 +134,8 @@ Question #6:
 In the "peer A" block 3, write in the data box: "Peer-to-peer" 
 In the "peer B" block 5, write in the data box: "Peer to peer" 
 Mine the blocks until all blocks turn green.
+
+![6](https://user-images.githubusercontent.com/109109176/178458420-0078a320-2e82-4296-96a4-cffcab94d29b.PNG)
 
 Answer #6
 
@@ -154,6 +159,9 @@ Question #9:
 REFRESH THE "BLOCKCHAIN DEMO" PAGE (ctrl+r)
 In the "peer B" block 4, write: "crypto"
 In the "peer C" block 4, write the same.
+
+![7](https://user-images.githubusercontent.com/109109176/178459467-543c41f9-00c3-4429-bb46-22744d7902e9.PNG)
+
 Mine the blocks until all blocks turn green.
 
 Answer #9:
