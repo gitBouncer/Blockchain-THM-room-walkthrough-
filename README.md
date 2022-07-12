@@ -156,7 +156,7 @@ Answer #8:
 b
 
 Question #9:
-REFRESH THE "BLOCKCHAIN DEMO" PAGE (ctrl+r)
+In order to refresh the webpage, close the webpage and open it again writing this link in the browser: http://localhost:3000/distributed
 In the "peer B" block 4, write: "crypto"
 In the "peer C" block 4, write the same.
 
