@@ -5,6 +5,10 @@ For those fans of "Try Hack Me" and those who are interested in discovering bloc
 Here I leave you the complete walkthrough. 
 Have fun!
 
+
+Here you have the link to Try Hack Me: https://tryhackme.com/
+And the link to the Blockchain room: tryhackme.com/jr/blockchainvkkgjrph7y
+
 ![1](https://user-images.githubusercontent.com/109109176/178353266-7c3fdfde-29be-45ee-9d88-6b87c8f98544.jpg)
 
 
